@@ -32,6 +32,13 @@ Desde el siguiente boton dando clic para ir al notebook
 
 **Guia de reproducción**
 
-En el notebook queda guardado en una carpeta datasets el conjunto de archivos csv que son necesarios para realizar el análisis.
-solo tienes que direccionarte a colab desde el boton que abre el notebook, importar pandas ejecutar pd.read.csv()para que esten activos.
+Descarga los achivos csv y cargarlos en colab.
+
+Dirígete al menú lateral izquierdo de tu Google Colab y haz clic en el ícono de Carpeta (Archivos).
+
+Haz clic en el primer ícono de arriba que dice "Subir al almacenamiento de sesiones" (representado con una pequeña carpeta y una flecha hacia arriba).
+
+Selecciona tu archivo desde tu PC.
+
+Una vez cargado en la lista, haz clic derecho sobre el nombre del archivo, selecciona "Copiar ruta" (Copy path) y pégala dentro de tu función de Pandas
 
