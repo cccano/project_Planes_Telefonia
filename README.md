@@ -1,4 +1,4 @@
-# sprint7-final-project
+# Comportamiento del uso de planes de telefonia
 Análisis del comportamiento de usuarios por segemento de edad y nivel de uso de los planes de telefonia
 
 **Objetivo**
